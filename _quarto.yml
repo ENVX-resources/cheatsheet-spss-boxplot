@@ -15,3 +15,5 @@ format:
     fontsize: 11pt
 execute:
   freeze: auto
+
+embed-resources: true
